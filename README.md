@@ -13,6 +13,6 @@ Code for the paper "[Adaptive Machine Translation with Large Language Models](ht
   booktitle="Proceedings of the 24th Annual Conference of the European Association for Machine Translation, Research: technical",
   year="2023",
   publisher="European Association for Machine Translation",
-  url="https://arxiv.org/abs/2301.13294"
+  url="https://aclanthology.org/2023.eamt-1.22/"
 }
 ```
