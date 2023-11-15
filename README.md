@@ -1,5 +1,5 @@
 # Adaptive-MT-LLM
-Code for the paper "[Adaptive Machine Translation with Large Language Models](https://arxiv.org/abs/2301.13294)"
+Code for the paper "[Adaptive Machine Translation with Large Language Models](https://aclanthology.org/2023.eamt-1.22/)"
 
 
 
