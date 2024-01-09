@@ -1,7 +1,7 @@
 # Adaptive-MT-LLM
 Code for the paper "[Adaptive Machine Translation with Large Language Models](https://aclanthology.org/2023.eamt-1.22/)"
 
-
+For fine-tuning LLMs for Adaptive MT, check this [repository]([url](https://github.com/ymoslem/Adaptive-MT-LLM-Fine-tuning)).
 
 ## Citation
 
