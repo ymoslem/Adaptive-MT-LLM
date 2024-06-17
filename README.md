@@ -5,7 +5,7 @@ For fine-tuning LLMs for Adaptive MT, check this [repository](https://github.com
 
 ## Citation
 
-```
+```bibtex
 @inproceedings{moslem-2023-adaptive,
   title={Adaptive Machine Translation with Large Language Models},
   author={Moslem, Yasmin and Haque, Rejwanul and D. Kelleher, John and Way, Andy},
